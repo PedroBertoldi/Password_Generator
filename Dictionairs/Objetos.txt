@@ -1,0 +1,10 @@
+caneta
+lapiz
+borracha
+calculadora
+papel
+oculos
+computador
+celular
+caneca
+cuia

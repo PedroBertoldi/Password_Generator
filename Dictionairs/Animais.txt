@@ -1,0 +1,12 @@
+gato
+cachorro
+leao
+cobra
+aranha
+macaco
+elefante
+coelho
+rato
+cavalo
+boi
+salmao

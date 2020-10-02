@@ -1,0 +1,1 @@
+{"defalt_configfile_path": "Library/win_config.txt", "dictionair_filepath": [["C:/Users/PedroNot/Desktop/GeradorSenhasPython/Password_Generator/Dictionairs", true]]}
